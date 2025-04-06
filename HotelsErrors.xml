@@ -18,7 +18,7 @@
 	<Hotel Rating="4.1">
 		<Name>Hyatt Place</Name>
 		<!-- Missing Phone Number-->
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>601</Number>
 			<Street>E 6th St</Street>
 			<City>Tempe</City>
@@ -31,7 +31,7 @@
 		<Name>AC Hotel</Name>
 		<Phone>480-642-6140</Phone>
 		<!-- Missing address closing tag-->
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>100</Number>
 			<Street>E Rito Salado Pkwy</Street>
 			<City>Tempe</City>
@@ -44,7 +44,7 @@
 		<Name>AC Hotel</Name>
 		<Name>Sonesta Select</Name>
 		<Phone>480-966-2800</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>601</Number>
 			<Street>South Ash Ave</Street>
 			<City>Tempe</City>
@@ -56,7 +56,7 @@
 	<Hotel Rating="4.0">
 		<Name>SureStay Plus</Name>
 		<Phone>480-675-9799</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>1429</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Tempe</City>
@@ -68,7 +68,7 @@
 	<Hotel Rating="4.0">
 		<Name>DoubleTree</Name>
 		<Phone>480-967-1441</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>2100</Number>
 			<Street>South Priest Drive</Street>
 			<City>Tempe</City>
@@ -80,7 +80,7 @@
 	<Hotel Rating="4.5">
 		<Name>Canopy</Name>
 		<Phone>480-968-6800</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>108</Number>
 			<Street>E University Drive</Street>
 			<City>Tempe</City>
@@ -92,7 +92,7 @@
 	<Hotel Rating="4.2">
 		<Name>Omni Tempe</Name>
 		<Phone>602-794-8600</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>7</Number>
 			<Street>East University Drive</Street>
 			<City>Tempe</City>
@@ -104,7 +104,7 @@
 	<Hotel Rating="4.6">
 		<Name>Hotel Valley Ho</Name>
 		<Phone>480-376-2600</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>6850</Number>
 			<Street>E Main St</Street>
 			<City>Scottsdale</City>
@@ -116,7 +116,7 @@
 	<Hotel Rating="3.9">
 		<Name>Arizona Grand Resort And Spa</Name>
 		<Phone>877-800-4888</Phone>
-		<Address NearestAirport ="Sky Harbor International">
+		<Address NearstAirport ="Sky Harbor International">
 			<Number>8000</Number>
 			<Street>Arizona Grand Pkwy</Street>
 			<City>Phoenix</City>
